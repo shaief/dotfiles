@@ -6,7 +6,8 @@ Let's start with .zshrc. To use it just clone this repo:
 ```
 $ cd
 $ git clone https://github.com/shaief/dotfiles.git
-$ ln -s -f dotfiles/zshrc_work.zshrc
+$ chmod u+x install.sh
+$ ./install.sh
 ```
 
 Good luck!
